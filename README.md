@@ -18,5 +18,5 @@ To run RustyBoat, follow these steps.
 2. once rustyboat is compiled run `DISCORD_TOKEN=YOUR_DISCORD_TOKEN ./target/debug/rustyboat`
 
 # Other information
-* rustyboat was built with the Serenity Rust library
+* rustyboat was built using [Serenity](https://github.com/serenity-rs/serenity), a discord library for Rust.
 * [TheCatAPI](https://thecatapi.com/) is what was used for the !cat command
